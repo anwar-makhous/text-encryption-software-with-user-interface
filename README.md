@@ -1,2 +1,2 @@
 # text-encryption-software-with-user-interface
-Text Encryption Software with User Interface, Encryption System using Visual C# to program Vigenere Cipher algorithm from scratch.
+Text encryption and decryption software with user interface, using Visual C# to program caeser and vigenere cipher algorithm from scratch.
